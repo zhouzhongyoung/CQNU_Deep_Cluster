@@ -10,9 +10,9 @@
 
 | 出版年份 | 标题                                  | 出版社         | 论文                                     | 代码                                   |
 |----------|---------------------------------------|----------------|----------------------------------------------|--------------------------------------------|
-| 2022     | 深度聚类方法的研究与应用            | IEEE           | [论文链接1](https://example.com/paper1)    | [代码链接1](https://example.com/code1)   |
-| 2021     | 聚类算法优化方法                     | Springer       | [论文链接2](https://example.com/paper2)    | [代码链接2](https://example.com/code2)   |
-| 2023     | 基于深度学习的聚类分析技术          | Elsevier       | [论文链接3](https://example.com/paper3)    | [代码链接3](https://example.com/code3)   |
+| 2022     | 深度聚类方法的研究与应用            | IEEE           | [论文](https://example.com/paper1)    | [代码](https://example.com/code1)   |
+| 2021     | 聚类算法优化方法                     | Springer       | [论文](https://example.com/paper2)    | [代码](https://example.com/code2)   |
+| 2023     | 基于深度学习的聚类分析技术          | Elsevier       | [论文](https://example.com/paper3)    | [代码](https://example.com/code3)   |
 
 
 ## 目录结构
