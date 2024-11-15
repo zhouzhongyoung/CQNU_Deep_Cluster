@@ -1,4 +1,4 @@
-# CQNU_Deep_Clsuter
+# CQNU_Deep_Cluster
 [重庆师范大学](https://www.cqnu.edu.cn/) - [重庆国家应用数学中心](https://cqcam.cqnu.edu.cn/)
 深度聚类算法研究课题组 Python/Matlab 脚本仓库
 # 深度聚类代码库
@@ -8,11 +8,11 @@
 本仓库旨在分类整理深度聚类研究中的各种代码及其使用说明，提供一个全面的框架，以便于本课题组研究生、博士生以及其他研究人员能够高效地开展深度聚类相关的工作。内容涵盖数据处理、模型训练、模型优化、聚类分析及可视化作图等多个方面。
 ## 课题组相关论文成果
 
-| 出版年份 | 标题                                  | 出版社         | 论文                                     | 代码                                   |
+| YEAR | TITLE                                  | VENUE         | PAPER                                     | CODE                                   |
 |----------|---------------------------------------|----------------|----------------------------------------------|--------------------------------------------|
-| 2022     | 深度聚类方法的研究与应用            | IEEE           | [论文](https://example.com/paper1)    | [代码](https://example.com/code1)   |
-| 2021     | 聚类算法优化方法                     | Springer       | [论文](https://example.com/paper2)    | [代码](https://example.com/code2)   |
-| 2023     | 基于深度学习的聚类分析技术          | Elsevier       | [论文](https://example.com/paper3)    | [代码](https://example.com/code3)   |
+| 2024     | InfoHamonizer Graph Contrastive Clustering            | ICASSP           | [IGCC](https://example.com/paper1)    | [IGCC](https://example.com/code1)   |
+| 2024     | Variational Structural Deep Clustering                     | ICIC       | [VSDC](https://example.com/paper2)    | [VSDC](https://example.com/code2)   |Clustering with Graph Convolutional Networks                    
+| 2024     | Variational KAN With Vision-Transformer for Contrastive Clustering                     | IJCNN       | [VKAN](https://example.com/paper3)    | [VKAN](https://example.com/code3)   |
 
 
 ## 目录结构
@@ -41,7 +41,7 @@
 请参考各个子目录中的说明文档和示例代码，按照其中的指导进行操作。在每个模块中，您将找到详细的使用说明和代码示例，以帮助您快速上手。
 ## 提交说明
 
-提交格式应为：**论文名-模块名-使用方法注释**
+提交格式应为：**论文（或简称）-模块名（或简称）-使用方法**
 
 例如：`Contrasive Clustering-IFH-见注释`
 
@@ -51,7 +51,7 @@
 
 ## 许可证
 
-本项目采用 MIT 许可证，详见 LICENSE 文件。
+本项目采用 Apache 许可证，详见 LICENSE 文件。
 
 ---
 
