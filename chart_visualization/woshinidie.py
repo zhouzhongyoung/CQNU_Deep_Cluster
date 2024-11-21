@@ -1,3 +1,23 @@
+#作者：rtj
+#日期：2024-11-21
+#程序说明：画热力图的程序
+
+#输入参数：
+#        file_path：Excel文件路径
+#     sheet_name：Excel工作表名称
+#        index_col：索引列
+
+#输出：输出结果：
+#       绘制的实验结果图
+
+#使用方法：
+#       1. 导入相关的excel文件
+#       2. 直接运行
+
+#注意事项：
+#      路径问题
+#      输入参数的选择   
+
 import pandas as pd
 import seaborn as sns  #用于话热图的工具包
 from scipy.cluster import hierarchy  #用于进行层次聚类，话层次聚类图的工具包
