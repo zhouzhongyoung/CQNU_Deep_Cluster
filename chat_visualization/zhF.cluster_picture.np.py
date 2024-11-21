@@ -24,5 +24,5 @@ plt.title('Ours')
 plt.xlabel('Feature 1')
 plt.ylabel('Feature 2')
 
-# 图形显
+# 图形显shi
 plt.show()
