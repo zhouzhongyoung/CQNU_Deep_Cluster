@@ -10,8 +10,8 @@
 
 | YEAR | TITLE                                  | VENUE         | PAPER                                     | CODE                                   |
 |----------|---------------------------------------|----------------|----------------------------------------------|--------------------------------------------|
-| 2025     | InfoHamonizer Graph Contrastive Clustering            | ICASSP           | [IGCC]([https://example.com/paper1](https://doi.org/10.1109/icassp49660.2025.10889375))    | [IGCC](https://example.com/code1)   |
-| 2024     | Variational Structural Deep Clustering                     | ICIC       | [VSDC]([https://example.com/paper2](https://link.springer.com/chapter/10.1007/978-981-97-5678-0_31))    | [VSDC](https://example.com/code2)   |Clustering with Graph Convolutional Networks                    
+| 2025     | InfoHamonizer Graph Contrastive Clustering            | ICASSP           | [IGCC](https://example.com/paper1](https://doi.org/10.1109/icassp49660.2025.10889375)    | [IGCC](https://example.com/code1)   |
+| 2024     | Variational Structural Deep Clustering                     | ICIC       | [VSDC](https://example.com/paper2](https://link.springer.com/chapter/10.1007/978-981-97-5678-0_31)    | [VSDC](https://example.com/code2)   |Clustering with Graph Convolutional Networks                    
 | 2025     | Implicit Topology Mining via Dual Filters for Attributed Graph Contrastive Clustering                     | IJCNN       | [DFGCC](https://example.com/paper3)    | [DFGCC](https://example.com/code3)   |
 | 2025     | scSCDT: Self-Contrastive Neural Network with Deep Topology Mining for scRNA-seq Data Clustering                     | Craft       | [scSCDT](https://example.com/paper3)    | [scSCDT](https://example.com/code3)   |
 
