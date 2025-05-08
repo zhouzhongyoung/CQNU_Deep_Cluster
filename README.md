@@ -57,7 +57,7 @@
 ---
 
 希望这个深度聚类代码库能为您的研究和开发工作提供帮助！如有任何问题或建议，请随时联系。
-- **邮箱**: charleschouyangyang@outlook.com
+- **邮箱**: zhouzhongyoung@163.com
 ## 相关链接
 
 - [重庆师范大学](https://www.cqnu.edu.cn/)
