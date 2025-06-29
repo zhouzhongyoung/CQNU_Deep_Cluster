@@ -8,12 +8,13 @@
 本仓库旨在分类整理深度聚类研究中的各种代码及其使用说明，提供一个全面的框架，以便于本课题组研究生、博士生以及其他研究人员能够高效地开展深度聚类相关的工作。内容涵盖数据处理、模型训练、模型优化、聚类分析及可视化作图等多个方面。
 ## 课题组相关论文成果
 
-| YEAR | TITLE                                  | VENUE         | PAPER                                     | CODE                                   |
+| YEAR | TITLE                                  | PUBLISH         | PAPER                                     | CODE                                   |
 |----------|---------------------------------------|----------------|----------------------------------------------|--------------------------------------------|
 | 2024     | Variational Structural Deep Clustering                     | ICIC       | [VSDC](https://link.springer.com/chapter/10.1007/978-981-97-5678-0_31) | [VSDC](https://example.com/code2)   |
 | 2025     | InfoHamonizer Graph Contrastive Clustering            | ICASSP           | [IGCC](https://doi.org/10.1109/icassp49660.2025.10889375)   | [IGCC](https://example.com/code1)   |
 | 2025     | Implicit Topology Mining via Dual Filters for Attributed Graph Contrastive Clustering                     | IJCNN       | [DFGCC](https://example.com/paper3)    | [DFGCC](https://example.com/code3)   |
-| 2025     | scSCDT: Self-Contrastive Neural Network with Deep Topology Mining for scRNA-seq Data Clustering                     | Craft       | [scSCDT](https://example.com/paper3)    | [scSCDT](https://example.com/code3)   |
+| 2025     | Deep Inference Clustering Network with Information Maximization                     | ESWA       | [DIC](https://doi.org/10.1016/j.eswa.2025.128578)    | [DIC](https://example.com/code3)   |
+| 2025     | scSCDT: Self-Contrastive Neural Network with Deep Topology Mining for scRNA-seq Data Clustering                     | Under review   | [scSCDT](https://example.com/paper3)    | [scSCDT](https://example.com/code3)   |
 
 
 ## 目录结构
