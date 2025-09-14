@@ -10,17 +10,17 @@
 
 | YEAR | TITLE                                  | PUBLISH         | PAPER                                     | CODE                                   |
 |----------|---------------------------------------|----------------|----------------------------------------------|--------------------------------------------|
-| 2024     | Variational Structural Deep Clustering | ICIC | [VSDC](https://link.springer.com/chapter/10.1007/978-981-97-5678-0_31) | [VSDC](https://example.com/code2) |
-| 2025     | InfoHamonizer Graph Contrastive Clustering  | ICASSP  | [IGCC](https://doi.org/10.1109/icassp49660.2025.10889375) | [IGCC](https://example.com/code1) |
-| 2025     | Implicit Topology Mining via Dual Filters for Attributed Graph Contrastive Clustering  | IJCNN  | [DFGCC](https://example.com/paper3) | [DFGCC](https://example.com/code3) |
+| 2024     | Variational Structural Deep Clustering | ICIC 2024| [VSDC](https://link.springer.com/chapter/10.1007/978-981-97-5678-0_31) | [VSDC](https://example.com/code2) |
+| 2025     | InfoHamonizer Graph Contrastive Clustering  | ICASSP  2025| [IGCC](https://doi.org/10.1109/icassp49660.2025.10889375) | [IGCC](https://example.com/code1) |
+| 2025     | Implicit Topology Mining via Dual Filters for Attributed Graph Contrastive Clustering  | IJCNN  2025| [DFGCC](https://example.com/paper3) | [DFGCC](https://example.com/code3) |
 | 2025     | Deep Inference Clustering Network with Information Maximization | ESWA | [DIC](https://doi.org/10.1016/j.eswa.2025.128578)| [DIC](https://example.com/code3) |
 | 2025     | scSCDT: Self-Contrastive Neural Network with Deep Topology Mining for scRNA-seq Data Clustering | Under review | [scSCDT](https://example.com/paper3) | [scSCDT](https://example.com/code3)   |
 | 2025     | Deep Variational Inference Clustering Network for Continuous Variables under Spherical and Dirichlet distributions | Under review | [DVIC](https://example.com/paper3) | [DVIC](https://example.com/code3) |
 | 2025     | Diffusion-driven Deep Variational Image Clustering with Representation Decoupling| Under review | [DDVC](https://example.com/paper3) | [DDVC](https://example.com/code3)   |
-| 2025     | Contrastive Graph Clustering with Structure-Aware Enhancement | Under review  | [CGC](https://example.com/paper3) | [CGC](https://example.com/code3) |
-| 2025     | Dual Contrastive Attributed Graph Clustering with Adaptive Structure | Under review  | [DCGC](https://example.com/paper3) | [DCGC](https://example.com/code3) |
+| 2025     | Contrastive Graph Clustering with Structure-Aware Enhancement | PRICAI  | [CGC](https://example.com/paper3) | [CGC](https://example.com/code3) |
+| 2025     | Dual Contrastive Attributed Graph Clustering with Adaptive Structure | PRCV  | [DCGC](https://example.com/paper3) | [DCGC](https://example.com/code3) |
 | 2025     | Penalized Likelihood-Based Deep Fuzzy Clustering via EM Optimization  | Under review | [DFCRN](https://example.com/paper3)    | [DFCRN](https://example.com/code3)   |
-| 2025     | One-step Graph Fusion Fuzzy Clustering Network | Under review   | [GFFCN](https://example.com/paper3)    | [GFFCN](https://example.com/code3) |
+| 2025     | One-step Graph Fusion Fuzzy Clustering Network | ACCESS   | [GFFCN](https://example.com/paper3)    | [GFFCN](https://example.com/code3) |
 
 
 ## 目录结构
