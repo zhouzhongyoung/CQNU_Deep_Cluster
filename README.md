@@ -14,7 +14,7 @@
 | 2025     | InfoHamonizer Graph Contrastive Clustering  | ICASSP  2025| [IGCC](https://doi.org/10.1109/icassp49660.2025.10889375) | [IGCC]([https://example.com/code1](https://doi.org/10.1109/icassp49660.2025.10889375)) |
 | 2025     | Implicit Topology Mining via Dual Filters for Attributed Graph Contrastive Clustering  | IJCNN  2025| [DFGCC](https://example.com/paper3) | [DFGCC](https://example.com/code3) |
 | 2025     | Deep Inference Clustering Network with Information Maximization | ESWA | [DIC](https://doi.org/10.1016/j.eswa.2025.128578)| [DIC](https://github.com/WangDavey/DIC) |
-| 2025     | scSCDT: Self-Contrastive Neural Network with Deep Topology Mining for scRNA-seq Data Clustering | Under review | [scSCDT](https://example.com/paper3) | [scSCDT](https://example.com/code3)   |
+| 2025     | scSCDT: Self-Contrastive Neural Network with Deep Topology Mining for scRNA-seq Data Clustering | ESWA | [scSCDT](https://example.com/paper3) | [scSCDT](https://example.com/code3)   |
 | 2025     | Deep Variational Inference Clustering Network for Continuous Variables under Spherical and Dirichlet distributions | Under review | [DVIC](https://example.com/paper3) | [DVIC](https://example.com/code3) |
 | 2025     | Diffusion-driven Deep Variational Image Clustering with Representation Decoupling| Under review | [DDVC](https://example.com/paper3) | [DDVC](https://example.com/code3)   |
 | 2025     | Contrastive Graph Clustering with Structure-Aware Enhancement | PRICAI  | [CGC](https://example.com/paper3) | [CGC](https://example.com/code3) |
